@@ -1,0 +1,6 @@
+{
+  "name": "The Look Book Hair & Beauty Salon",
+  "description": "Premium luxury website for The Look Book Hair & Beauty Salon in Panjim, Goa, featuring complete services, an advanced booking system, loyalty program, and an interactive AI Hair Style Simulator.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
